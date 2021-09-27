@@ -2,7 +2,6 @@
 package program.java.sesi.pkg1;
 
 /**
- *
  * @author ASUS
  */
 import javax.swing.*;
